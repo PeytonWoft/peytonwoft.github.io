@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Peyton&#39;s NoteBlog</title>
     <link>https://peytonwoft.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Peyton&#39;s NoteBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Nov 2019 18:53:56 +0800</lastBuildDate>
